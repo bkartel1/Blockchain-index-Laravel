@@ -3,6 +3,10 @@
 This is a very simple blockchain indexer, for those who want to build a blockexplorer. This command will database the most important stuff of the blockchain, (the blocks, transactions and the trasnaction details) you can then cache the majority of the information, and only update the confirmations. You can use this to compare address' transactions (list transactions for the address on it's defined page)
 
 
+Something like this (click the image for the video)
+
+
+[![Latest transactions](https://i.imgur.com/qWc22kK.png)](https://www.youtube.com/watch?v=Pcw8D9UCM3Y&feature=youtu.beE)
 
 # Install
 
