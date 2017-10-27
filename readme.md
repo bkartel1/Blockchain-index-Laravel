@@ -1,6 +1,6 @@
 # Simple blockchain indexer written as a laravel command
 
-This is a very simple blockchain indexer, for those who want to build a blockexplorer. 
+This is a very simple blockchain indexer, for those who want to build a blockexplorer. This command will database the most important stuff of the blockchain, (the blocks, transactions and the trasnaction details) you can then cache the majority of the information, and only update the confirmations. You can use this to compare address' transactions (list transactions for the address on it's defined page)
 
 
 
