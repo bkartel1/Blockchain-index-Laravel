@@ -54,11 +54,6 @@ BITCOIND_USER=(rpcuser from bitcoin.conf)
 BITCOIND_PASSWORD=(rpcpassword from bitcoin.conf)
 ```
 
-## Requirements
-* PHP 7.0 or higher (should also work on 5.6, but this is unsupported)
-* Laravel 5.1 or higher
-
-
 Now copy the models folder in to your `app` directory, and the `console/commands` folder in to the `app`directory. Copy the migration files to the correct location
 
 
@@ -68,3 +63,7 @@ You should now be able to run the artisan command
 
 
 This will take a long time. You will need a large Db (100gb+)
+
+## Requirements
+* PHP 7.0 or higher (should also work on 5.6, but this is unsupported)
+* Laravel 5.1 or higher
